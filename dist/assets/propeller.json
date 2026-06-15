@@ -1,0 +1,167 @@
+{
+  "frames": {
+    "propeller-1_01.png": {
+      "frame": {
+        "x": 1,
+        "y": 1,
+        "w": 54,
+        "h": 174
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 8,
+        "w": 54,
+        "h": 174
+      },
+      "sourceSize": {
+        "w": 90,
+        "h": 192
+      }
+    },
+    "propeller-1_02.png": {
+      "frame": {
+        "x": 1,
+        "y": 177,
+        "w": 53,
+        "h": 173
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 20,
+        "y": 8,
+        "w": 53,
+        "h": 173
+      },
+      "sourceSize": {
+        "w": 90,
+        "h": 192
+      }
+    },
+    "propeller-1_03.png": {
+      "frame": {
+        "x": 112,
+        "y": 1,
+        "w": 48,
+        "h": 153
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 23,
+        "y": 18,
+        "w": 48,
+        "h": 153
+      },
+      "sourceSize": {
+        "w": 90,
+        "h": 192
+      }
+    },
+    "propeller-1_04.png": {
+      "frame": {
+        "x": 211,
+        "y": 1,
+        "w": 43,
+        "h": 109
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 24,
+        "y": 39,
+        "w": 43,
+        "h": 109
+      },
+      "sourceSize": {
+        "w": 90,
+        "h": 192
+      }
+    },
+    "propeller-1_05.png": {
+      "frame": {
+        "x": 211,
+        "y": 112,
+        "w": 43,
+        "h": 104
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 24,
+        "y": 44,
+        "w": 43,
+        "h": 104
+      },
+      "sourceSize": {
+        "w": 90,
+        "h": 192
+      }
+    },
+    "propeller-1_06.png": {
+      "frame": {
+        "x": 162,
+        "y": 1,
+        "w": 47,
+        "h": 149
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 21,
+        "y": 21,
+        "w": 47,
+        "h": 149
+      },
+      "sourceSize": {
+        "w": 90,
+        "h": 192
+      }
+    },
+    "propeller-1_07.png": {
+      "frame": {
+        "x": 57,
+        "y": 1,
+        "w": 53,
+        "h": 172
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 9,
+        "w": 53,
+        "h": 172
+      },
+      "sourceSize": {
+        "w": 90,
+        "h": 192
+      }
+    }
+  },
+  "animations": {
+    "propeller-1": [
+      "propeller-1_01.png",
+      "propeller-1_02.png",
+      "propeller-1_03.png",
+      "propeller-1_04.png",
+      "propeller-1_05.png",
+      "propeller-1_06.png",
+      "propeller-1_07.png"
+    ]
+  },
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "version": "1.1",
+    "image": "propeller-1@2x.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 255,
+      "h": 231
+    },
+    "scale": "1",
+    "smartupdate": "$TexturePacker:SmartUpdate:f11bf149ed8bf7921325a77ea27bdd31:11a3d135ef159278b369cde97b2d469d:aca73bee29035e378f062246e4fe8aa8$"
+  }
+}

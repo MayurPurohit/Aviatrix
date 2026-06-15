@@ -1,0 +1,125 @@
+{
+  "frames": {
+    "star-1.png": {
+      "frame": {
+        "x": 1,
+        "y": 48,
+        "w": 15,
+        "h": 15
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 15,
+        "h": 15
+      },
+      "sourceSize": {
+        "w": 15,
+        "h": 15
+      }
+    },
+    "star-2.png": {
+      "frame": {
+        "x": 95,
+        "y": 32,
+        "w": 21,
+        "h": 21
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 21,
+        "h": 21
+      },
+      "sourceSize": {
+        "w": 21,
+        "h": 21
+      }
+    },
+    "star-3.png": {
+      "frame": {
+        "x": 95,
+        "y": 1,
+        "w": 29,
+        "h": 29
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 29,
+        "h": 29
+      },
+      "sourceSize": {
+        "w": 29,
+        "h": 29
+      }
+    },
+    "star-4.png": {
+      "frame": {
+        "x": 1,
+        "y": 1,
+        "w": 45,
+        "h": 45
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 45,
+        "h": 45
+      },
+      "sourceSize": {
+        "w": 45,
+        "h": 45
+      }
+    },
+    "star-5.png": {
+      "frame": {
+        "x": 48,
+        "y": 1,
+        "w": 45,
+        "h": 45
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 11,
+        "w": 45,
+        "h": 45
+      },
+      "sourceSize": {
+        "w": 67,
+        "h": 67
+      }
+    }
+  },
+  "animations": {
+    "star": [
+      "star-1.png",
+      "star-2.png",
+      "star-3.png",
+      "star-4.png",
+      "star-5.png"
+    ]
+  },
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "version": "1.1",
+    "image": "stars@2x.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 125,
+      "h": 64
+    },
+    "scale": "1",
+    "smartupdate": "$TexturePacker:SmartUpdate:1508ab182ba8c4ba5a2d4084f0bb48a1:6f10f97bf0eadf022472d83d3afe0a01:ba5d011f510360198fd5cdddf4fc29e5$"
+  }
+}
