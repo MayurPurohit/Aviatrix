@@ -1,4 +1,4 @@
-import{w as U,l as g,m as c,u as S,B as _,o as m,E as I,p as h}from"./SpaceLayer-F1q0qmWk.js";const x={name:"local-uniform-bit",vertex:{header:`
+import{w as U,l as g,m as c,u as S,B as _,o as m,E as I,p as h}from"./SpaceLayer-DWJt6fu0.js";const x={name:"local-uniform-bit",vertex:{header:`
 
             struct LocalUniforms {
                 uTransformMatrix:mat3x3<f32>,
